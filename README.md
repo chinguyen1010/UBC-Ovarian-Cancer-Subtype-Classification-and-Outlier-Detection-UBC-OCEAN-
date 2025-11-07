@@ -48,28 +48,8 @@ etc.
 
 The organizers of the challenge extend their gratitude to the following institutions for their invaluable contribution to the data for this competition.
 
-(HAW) Cancer Prevention and Control Program, Cedars Sinai Cancer, Cedars Sinai Medical Center, USA,
-(CNI) CNI Study Data: Project "PI19/01730", funded by Instituto de Salud Carlos III (ISCIII) and co-funded by the European Union (FEDER), Spain,
-(UKO) MRC Clinical Trials Unit at UCL, Institute of Clinical Trials and Methodology, University College London, United Kingdom,
-(WMH) The Gynaecological Oncology Biobank at Westmead was funded by the National Health and Medical Research Council of Australia (ID310670, ID628903); the Cancer Institute NSW (12/RIG/1-17, 15/RIG/1-16); the Department of Gynaecological Oncology, Westmead Hospital; and acknowledges financial support from the Sydney West Translational Cancer Research Centre, funded by the Cancer Institute NSW (15/TRC/1-01), Australia,
-(LAX) David Geffen School of Medicine, Department of Obstetrics and Gynecology, University of California at Los Angeles, Los Angeles, CA, USA
-(VAN) Vancouver General Hospital, Canada
-(TVA) OVAL-Alberta, Canada
-(TVB) OVAL-British Columbia, Canada
-(TUE) Tuebingen University Women's Hospital, Germany
-(SEA) UK Studies of Epidemiology and Risk Factors in Cancer Heredity (SEARCH) Ovarian Cancer, United Kingdom
-(POC) Poland Ovarian Cancer, Poland
-(PEN) Penn Ovarian Cancer Research Center tumor bank, USA
-(NCT) Natl. Centre of Tumor Diseases and the Dept. of Pathology, Heidelberg, Germany
-(MAY) Mayo Clinic Ovarian Cancer Case Control, USA
-(HOP) Hormones and Ovarian Cancer Prediction, USA
-(CAL) Calgary HGSC chemoresistant, Canada
-(BRZ) Brazil Gynecologic Tumor Bank, Brazil
-(BAV) Bavarian Ovarian Cancer Cases and Controls
-(AOV) OVarian Types
-(OHSU) Oregon Health and Science University, USA
-(TOR and DOV) Fred Hutch Cancer Center, USA
-(AMC) Amsterdam Cancer Center, Netherlands
+<img width="882" height="111" alt="image" src="https://github.com/user-attachments/assets/b3b702dc-bdfc-449a-be25-d5262e2bfd98" />
+
 
 Citation:
 
