@@ -48,7 +48,10 @@ etc.
 
 The organizers of the challenge extend their gratitude to the following institutions for their invaluable contribution to the data for this competition.
 
-<img width="882" height="111" alt="image" src="https://github.com/user-attachments/assets/d6c3fac8-72eb-4dd6-8367-60d8b0b58edf" />
+<img width="762" height="653" alt="Screenshot 2025-11-06 at 11 33 20 PM" src="https://github.com/user-attachments/assets/091c1dc6-efd7-48b4-8ce3-cabab2264838" />
+
+<img width="707" height="121" alt="Screenshot 2025-11-06 at 11 33 35 PM" src="https://github.com/user-attachments/assets/3a774240-ded4-4494-ae90-7c4988d8950e" />
+
 
 
 Citation:
